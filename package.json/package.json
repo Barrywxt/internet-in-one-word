@@ -1,8 +1,0 @@
-{
-  "name": "internet-in-one-word",
-  "version": "1.0.0",
-  "description": "make.fun bounty: The Internet in One Word - entry: Doomscrolling",
-  "main": "main.js",
-  "scripts": { "start": "node main.js" },
-  "license": "MIT"
-}
